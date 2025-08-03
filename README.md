@@ -24,6 +24,7 @@ A web-based application that allows security guards to log visitor details and s
 ---
 
 ## 📁 Folder Structure
+. . .
 
 📁 visitor_log_system/
 ├── app.py
@@ -33,6 +34,7 @@ A web-based application that allows security guards to log visitor details and s
 ├── templates/success.html
 ├── requirements.txt
 └── README.md
+. . .
 ---
 
 ## 💻 How to Run the Project
